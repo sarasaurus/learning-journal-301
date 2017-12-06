@@ -1,0 +1,2 @@
+learning journal for day 1
+Jesus and I worked together.  I think we both like to try things out so splitting into driver navigator roles was a little difficult, both of us wanted to be able to play with code.  We got bogged down in the hamburger menu task, but were able to recover.  Next time I'm printing out the lab req's it was really hard to keep track of them on the screen, there are too many I forget our goals.
