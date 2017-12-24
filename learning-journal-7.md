@@ -1,1 +1,6 @@
-**learning journal 7**
+it was tough to do anything other than our project this week. 
+On tuesday my sister and her partner visited.  Her partner is a "software developer" who works mostly with python.  He's also someone who really loves little logic puzzles.  So I showed him our codewars assignment and he got really excited about it, saying it was a "classic"
+He is easily excitable.
+Despite, or because of, his enthusiasm, it was fun talking to him about it.  I was trying to use a bunch of .map and .filter methods to sort through and modify the data we were passing in... and I struggled to explain what I was doing to him when he asked.  He wanted to know if we'd learned about for loops, I said yes, so he wanted to know why I wasn't using a for loop if .map was confusing me. long story short, I decided to refactor into a forloop, and it was really helpful, allowing my to understand exactly how I was iterating over the two passed in arrays/strings.
+
+I think for now, while I'm a beginner, focusing on the logic of what I'm doing and keeping each step clear and concise by using multi-line functions, and basic for loops can be helpful.  I definitely understand the usefullness of built in methods like .map and more concise syntax, but I think it's good to remember that both approaches have their place, and that focussing on the basics might help me to read and comprehend my own code for longer!  
